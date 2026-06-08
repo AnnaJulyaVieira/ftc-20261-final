@@ -1,0 +1,10 @@
+# Casos de teste para L2 = { a^n b^n | n >= 1 }
+# Uma cadeia por linha. "ε" representa a cadeia vazia.
+ab
+aabb
+aaabbb
+aab
+abb
+ba
+ε
+abab
