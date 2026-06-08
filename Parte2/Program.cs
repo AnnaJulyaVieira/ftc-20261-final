@@ -43,7 +43,7 @@ Console.WriteLine("############################################################"
 Console.WriteLine("#  AP para L2 = { a^n b^n | n >= 1 } (aceita por pilha vazia)");
 Console.WriteLine("############################################################\n");
 
-string arqL2 = "entradas_ap.txt";
+string arqL2 = Path.Combine(AppContext.BaseDirectory, "entradas_ap.txt");
 string[] casosL2 = File.Exists(arqL2)
     ? File.ReadAllLines(arqL2)
         .Where(l => !l.TrimStart().StartsWith("#"))

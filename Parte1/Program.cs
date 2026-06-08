@@ -43,7 +43,7 @@ afdL1.ExibirDiagrama();
 // Leitura das cadeias de entradas.txt (uma por linha) e simulacao.
 // A linha "ε" (ou vazia) representa a cadeia vazia.
 // ---------------------------------------------------------------------
-string arquivoEntradas = "entradas.txt";
+string arquivoEntradas = Path.Combine(AppContext.BaseDirectory, "entradas.txt");
 if (File.Exists(arquivoEntradas))
 {
     Console.WriteLine($"=== Simulacao das cadeias de '{arquivoEntradas}' ===\n");
@@ -81,7 +81,7 @@ Console.WriteLine("\n###########################################################
 Console.WriteLine("#  Desafio: AFD carregado dinamicamente de 'afd.json'      #");
 Console.WriteLine("############################################################\n");
 
-string arquivoConfig = "afd.json";
+string arquivoConfig = Path.Combine(AppContext.BaseDirectory, "afd.json");
 try
 {
     var afdJson = Afd.CarregarDeJson(arquivoConfig);

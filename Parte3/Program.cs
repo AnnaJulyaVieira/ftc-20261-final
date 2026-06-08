@@ -66,7 +66,7 @@ Console.WriteLine("############################################################"
 Console.WriteLine("#  MT reconhecedora de L4 = { a^n b^n c^n | n >= 1 }");
 Console.WriteLine("############################################################\n");
 
-string arqMt = "entradas_mt.txt";
+string arqMt = Path.Combine(AppContext.BaseDirectory, "entradas_mt.txt");
 string[] casosL4 = File.Exists(arqMt)
     ? File.ReadAllLines(arqMt)
         .Where(l => !l.TrimStart().StartsWith("#"))
