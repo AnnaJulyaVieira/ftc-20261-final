@@ -1,0 +1,19 @@
+# Pastas de build do .NET
+bin/
+obj/
+
+# Arquivos de usuario / IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Arquivos temporarios
+*.tmp
+*.swp
+*~
+
+# Resultados de publicacao
+publish/
+*.dll.config
