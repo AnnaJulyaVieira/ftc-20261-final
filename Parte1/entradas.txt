@@ -1,0 +1,10 @@
+# Casos de teste para L1 = { w em {a,b}* | w termina com "ab" }
+# Uma cadeia por linha. A linha "ε" representa a cadeia vazia.
+# Linhas iniciadas por '#' sao ignoradas pelo simulador.
+ab
+aab
+bab
+ababab
+ba
+ε
+b
