@@ -1,0 +1,9 @@
+# Casos de teste para L4 = { a^n b^n c^n | n >= 1 }
+# Uma cadeia por linha. "ε" representa a cadeia vazia.
+abc
+aabbcc
+aaabbbccc
+aabbc
+ab
+abcabc
+ε
