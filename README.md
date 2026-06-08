@@ -11,7 +11,7 @@ reconhecimento por pilha vazia e Máquina de Turing (MT).
 
 | Nome completo | Matrícula | Parte sob responsabilidade |
 |---------------|-----------|----------------------------|
-| _(preencher)_ | _(preencher)_ | Parte 1 — AFD |
+| Anna Julya Fernandes | 72401192 | Parte 1 — AFD |
 | _(preencher)_ | _(preencher)_ | Parte 2 — Autômato de Pilha |
 | _(preencher)_ | _(preencher)_ | Parte 3 — Máquina de Turing |
 
