@@ -3,7 +3,7 @@
 **Disciplina:** Fundamentos Teóricos da Computação
 **Instituição:** Faculdade Cotemig
 **Professor:** Júlio César da Silva
-**Equipe:** Anna Julya Fernandes (72401192) _(demais integrantes a preencher)_
+**Equipe:** Anna Julya Fernandes (72401192), Gabriel Lucas Rosa Raposo (72401249)_
 **Data:** junho de 2026
 
 > **Como gerar o PDF exigido (`docs/relatorio.pdf`):** copie este conteúdo para o
