@@ -9,11 +9,10 @@ reconhecimento por pilha vazia e Máquina de Turing (MT).
 
 ## Integrantes da equipe
 
-| Nome completo | Matrícula | Parte sob responsabilidade |
-|---------------|-----------|----------------------------|
-| Anna Julya Fernandes | 72401192 | Parte 1 — AFD |
-| Anna Julya Fernandes | 72401192 | Parte 2 — Autômato de Pilha |
-| Anna Julya Fernandes | 72401192 | Parte 3 — Máquina de Turing |
+| Nome completo | Matrícula |
+|---------------|-----------|
+| Anna Julya Fernandes | 72401192 |
+| Gabriel Raposo | 72401249 | 
 
 > ⚠️ **Preencham os nomes e matrículas acima** antes de entregar.
 
