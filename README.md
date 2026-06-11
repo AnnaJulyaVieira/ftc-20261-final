@@ -18,7 +18,7 @@ reconhecimento por pilha vazia e Máquina de Turing (MT).
 
 ## Vídeo de defesa
 
-🔗 **Link do vídeo (YouTube):** _(inserir o link aqui antes da entrega)_
+🔗 https://youtu.be/FS93ILZ6ANM
 
 ## Estrutura do repositório
 
